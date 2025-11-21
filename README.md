@@ -8,6 +8,7 @@
 - Allow/Block IP's based on hardcoded config
 - Supports 19 languages, auto-selects CAPTCHA language based on the user's browser request
 - Integrates Cloudflare Turnstile CAPTCHA
+- Automatically inserts domain details
 
 
 ## Setup
