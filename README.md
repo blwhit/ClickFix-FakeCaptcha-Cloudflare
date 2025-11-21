@@ -1,4 +1,4 @@
-# Cloudflare ClickFix/FakeCaptcha Attack
+# ClickFix/FakeCaptcha Attack via Cloudflare
 
 <img width="975" height="771" alt="image" src="https://github.com/user-attachments/assets/48a19171-0726-4a6b-b900-476a65b92efa" />
 
